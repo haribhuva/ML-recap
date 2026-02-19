@@ -1,0 +1,6 @@
+outs:
+- md5: dd6bdb2c61934278fd54b43165249d1f.dir
+  size: 5964290595
+  nfiles: 6
+  hash: md5
+  path: archive
